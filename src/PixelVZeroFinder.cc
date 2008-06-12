@@ -1,6 +1,10 @@
 #include "RecoPixelVZero/PixelVZeroFinding/interface/PixelVZeroFinder.h"
 
 #include "DataFormats/Math/interface/Vector3D.h"
+using namespace std;
+
+#include <utility>
+using std::pair;
 
 /*****************************************************************************/
 PixelVZeroFinder::PixelVZeroFinder
